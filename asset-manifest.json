@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/facerecognition/static/css/main.4e8047ec.chunk.css",
-    "main.js": "/facerecognition/static/js/main.eb10c3d6.chunk.js",
-    "main.js.map": "/facerecognition/static/js/main.eb10c3d6.chunk.js.map",
-    "runtime~main.js": "/facerecognition/static/js/runtime~main.7f9ce1ea.js",
-    "runtime~main.js.map": "/facerecognition/static/js/runtime~main.7f9ce1ea.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/facerecognition/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.1dd17ef9.chunk.js": "/facerecognition/static/js/2.1dd17ef9.chunk.js",
-    "static/js/2.1dd17ef9.chunk.js.map": "/facerecognition/static/js/2.1dd17ef9.chunk.js.map",
-    "index.html": "/facerecognition/index.html",
-    "precache-manifest.3df9b60be0116a7fc81f9264a282cc88.js": "/facerecognition/precache-manifest.3df9b60be0116a7fc81f9264a282cc88.js",
-    "service-worker.js": "/facerecognition/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/facerecognition/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.4e8047ec.chunk.css.map": "/facerecognition/static/css/main.4e8047ec.chunk.css.map"
+    "main.css": "/REACT-facerecognition/static/css/main.4e8047ec.chunk.css",
+    "main.js": "/REACT-facerecognition/static/js/main.871d99a7.chunk.js",
+    "main.js.map": "/REACT-facerecognition/static/js/main.871d99a7.chunk.js.map",
+    "runtime~main.js": "/REACT-facerecognition/static/js/runtime~main.c771a772.js",
+    "runtime~main.js.map": "/REACT-facerecognition/static/js/runtime~main.c771a772.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/REACT-facerecognition/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1dd17ef9.chunk.js": "/REACT-facerecognition/static/js/2.1dd17ef9.chunk.js",
+    "static/js/2.1dd17ef9.chunk.js.map": "/REACT-facerecognition/static/js/2.1dd17ef9.chunk.js.map",
+    "index.html": "/REACT-facerecognition/index.html",
+    "precache-manifest.b6f0cd559f3d4b32e69bf087cb50355f.js": "/REACT-facerecognition/precache-manifest.b6f0cd559f3d4b32e69bf087cb50355f.js",
+    "service-worker.js": "/REACT-facerecognition/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/REACT-facerecognition/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.4e8047ec.chunk.css.map": "/REACT-facerecognition/static/css/main.4e8047ec.chunk.css.map"
   }
 }
